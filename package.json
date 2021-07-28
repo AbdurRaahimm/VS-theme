@@ -1,0 +1,26 @@
+{
+    "name": "rahim-dark-theme",
+    "displayName": "Dark theme",
+    "description": "This is modern theme and eye safe ",
+    "version": "0.1.0",
+    "publisher": "SayedAbdurRahim",
+    "keywords": [
+        "dark-theme",
+        "SayedAbdurRahim"
+    ],
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sayed Abdur Rahim",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sayed Abdur Rahim-color-theme.json"
+            }
+        ]
+    }
+}
