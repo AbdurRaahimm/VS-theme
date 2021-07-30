@@ -16,7 +16,6 @@
 		"terminal.foreground": "#ffffff",
 		"terminal.background": "#000000",
 		"terminal.selectionBackground": "#ff0000",
-		// "editorWidget.background": "#0000",
 		"button.background":"#004b23",
 		"sash.hoverBorder": "#ff0000"
 	},
@@ -89,7 +88,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#05857a"
+				"foreground": "#055285"
 			}
 		},
 		{
